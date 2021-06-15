@@ -5,11 +5,13 @@ body {
 }
 
 .playlist {
+  display: block;
   background-color: white;
   border-radius: 10px;
   width: 50%;
-  height: 2.75in;
+  height: auto;
   margin-left: 25%;
+  text-overflow: inherit;
 }
 
 h1 {
