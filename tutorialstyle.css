@@ -1,0 +1,44 @@
+body {
+  background-color: #000052;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.playlist {
+  background-color: white;
+  border-radius: 10px;
+  width: 50%;
+  height: 2.75in;
+  margin-left: 25%;
+}
+
+h1 {
+  color: white;
+}
+
+.home {
+  width: 96px;
+  height: 96px;
+  border-color: #000036;
+  box-shadow: transparent;
+  background: #000052;
+  float: left;
+  border-radius: 5%;
+}
+
+.homeimg {
+  width: 96px;
+  height: 96px;
+  background-color: #000052;
+  border-radius: 5%;
+  border-color: transparent;
+}
+
+.homeimg:hover {
+  background-color: midnightblue;
+  transition: 0.1s;
+}
+
+p {
+  font-size: 20px;
+}
